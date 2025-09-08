@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 4,
    "id": "30f8c392-09bf-41d4-a2a8-ba4b1ee75e47",
    "metadata": {},
    "outputs": [
@@ -10,7 +10,16 @@
      "name": "stdin",
      "output_type": "stream",
      "text": [
-      "Enter the first number: 45\n"
+      "Enter the first number: 45\n",
+      "Enter the second number: 28\n",
+      "Enter the third number: 20\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "The biggest number is: 45.0\n"
      ]
     }
    ],
