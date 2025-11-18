@@ -1,0 +1,3 @@
+name,age,marks
+anu,21,80
+saniya,21,85
